@@ -1,2 +1,2 @@
-# github-actions-dem0
+# github-actions-demo
 A demo repository for GitHub Actions
